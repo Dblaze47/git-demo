@@ -1,3 +1,3 @@
 # git-demo
 
-#### New git demo
+#### New git demo:
